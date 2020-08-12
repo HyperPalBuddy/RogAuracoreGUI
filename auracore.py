@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 
-"""
 
-	Auracore Project With GUI 
-
-	Project Wirtten By: Saiteja Alapati
-
-
-
-	"""
 from tkinter import *
 import os
 
