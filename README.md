@@ -1,6 +1,6 @@
 # RogAuracoreGUI
 
-This is a GUI for rogauracore project by wroberts
+This is a GUI for rogauracore project by wroberts.
 It can be found at:
 https://github.com/wroberts/rogauracore
 
